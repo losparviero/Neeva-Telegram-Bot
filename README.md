@@ -1,3 +1,8 @@
+
+#### Repository archived because Neeva has shutdown.
+
+<br>
+
 # Neeva Telegram Bot
 
 Use Neeva AI chat bot in Telegram.
